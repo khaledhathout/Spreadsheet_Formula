@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Level001](README.md)
+* [Excel MID function to extract text from the middle of a string](README.md)
