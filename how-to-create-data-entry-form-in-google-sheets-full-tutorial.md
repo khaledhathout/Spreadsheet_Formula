@@ -9,3 +9,19 @@ description: https://www.youtube.com/watch?v=MJuz8WhFNqU
 [https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing)
 
 <figure><img src=".gitbook/assets/Screenshot 2023-05-15 102514.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2023-05-15 103448.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
