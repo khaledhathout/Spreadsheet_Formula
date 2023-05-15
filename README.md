@@ -1,8 +1,8 @@
-# Excel MID function to extract text from the middle of a string
+# ?? Excel MID function to extract text from the middle of a string
 
 ## Excel MID function to extract text from the middle of a string
 
-![Svetlana Cheusheva](https://cdn.ablebits.com/\_img-blog/authors/small/svetlana-cheusheva.jpg) by [Svetlana Cheusheva](https://www.ablebits.com/office-addins-blog/author/svetlana-cheusheva/), updated on April 19, 2023
+
 
 MID is one of the Text functions that Microsoft Excel provides for manipulating text strings. At the most basic level, it is used to extract a substring from the middle of the text string. In this tutorial, we will discuss the syntax and specificities of the Excel MID function, and then you will learn a few creative uses to accomplish challenging tasks.
 
