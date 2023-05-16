@@ -1,4 +1,4 @@
-# Data Validation \[Date]
+# Data Validation - requireDate
 
 ````javascript
 function RequireDate() {
