@@ -1,6 +1,6 @@
 # Data Validation - RequireTextIsEmail
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Way 001
 
