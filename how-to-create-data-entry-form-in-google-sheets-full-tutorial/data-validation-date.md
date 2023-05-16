@@ -1,6 +1,6 @@
 # Data Validation - requireDate
 
-````javascript
+```javascript
 function RequireDate() {
 
   // Variables ------ Start
@@ -21,4 +21,3 @@ function RequireDate() {
 
 }
 ```
-````
