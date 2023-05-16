@@ -12,12 +12,6 @@ Example by me
 
 [https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing)
 
-<figure><img src=".gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
