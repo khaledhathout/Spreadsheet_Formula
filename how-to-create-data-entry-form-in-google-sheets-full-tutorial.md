@@ -1,10 +1,10 @@
----
-description: >-
-  https://www.youtube.com/watch?v=MJuz8WhFNqU -
-  https://docs.google.com/spreadsheets/d/1w9ws7KkK2Caro-sRjmb6VIP5D9niE0pKIfPqoJ5jDt8/edit?usp=sharing
----
-
 # How to create data entry form in Google Sheets \[Full tutorial]
+
+[https://youtu.be/MJuz8WhFNqU](https://youtu.be/MJuz8WhFNqU)
+
+[https://docs.google.com/spreadsheets/d/1w9ws7KkK2Caro-sRjmb6VIP5D9niE0pKIfPqoJ5jDt8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1w9ws7KkK2Caro-sRjmb6VIP5D9niE0pKIfPqoJ5jDt8/edit?usp=sharing)
+
+[https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1x0iW2-CxKSyZc1lMDSH7CmSzW1PBK-Cu96IqfYaC2JM/edit?usp=sharing)
 
 <figure><img src=".gitbook/assets/Screenshot 2023-05-15 095502.png" alt=""><figcaption></figcaption></figure>
 
