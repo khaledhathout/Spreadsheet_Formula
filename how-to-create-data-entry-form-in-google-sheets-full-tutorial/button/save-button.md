@@ -19,23 +19,23 @@ function submitData()
 
   //Input Values  ------ Start
     var values = [[
-    formSS.getRange("B2").getValue(), // B2 ----old----- C7-----Customer ID
-    formSS.getRange("B3").getValue(), // Customer ID = B3 ----old----- C9
-    formSS.getRange("B4").getValue(), // Customer ID = B4 ----old----- C11
-    formSS.getRange("B5").getValue(), // Customer ID = B5 ----old----- C13
-    formSS.getRange("B6").getValue(), // Customer ID = B6 ----old----- C15
-    formSS.getRange("B7").getValue()  // Customer ID = B7 ----old----- C17
+    formSS.getRange("B2").getValue(), // B2 ----old----- C7 -----Customer ID
+    formSS.getRange("B3").getValue(), // B3 ----old----- C9 -----Date
+    formSS.getRange("B4").getValue(), // B4 ----old----- C11 ----Name
+    formSS.getRange("B5").getValue(), // B5 ----old----- C13 ----Phone
+    formSS.getRange("B6").getValue(), // B6 ----old----- C15 ----Email
+    formSS.getRange("B7").getValue()  // B7 ----old----- C17 ----Address
     ]];
   //Input Values  ------ End
 
   //Clear the fields after submit  ------ Start
     datasheet.getRange(datasheet.getLastRow()+1, 1, 1, 6).setValues(values);
-    formSS.getRange("B2").clear(); // Customer ID = B2 ----old----- C7
-    formSS.getRange("B3").clear(); // Customer ID = B2 ----old----- C7
-    formSS.getRange("B4").clear(); // Customer ID = B2 ----old----- C7
-    formSS.getRange("B5").clear(); // Customer ID = B2 ----old----- C7
-    formSS.getRange("B6").clear(); // Customer ID = B2 ----old----- C7
-    formSS.getRange("B7").clear(); // Customer ID = B2 ----old----- C7
+    formSS.getRange("B2").clear(); // B2 ----old----- C7 -----Customer ID
+    formSS.getRange("B3").clear(); // B3 ----old----- C9 -----Date
+    formSS.getRange("B4").clear(); // B4 ----old----- C11 ----Name
+    formSS.getRange("B5").clear(); // B5 ----old----- C13 ----Phone
+    formSS.getRange("B6").clear(); // B6 ----old----- C15 ----Email
+    formSS.getRange("B7").clear();  // B7 ----old----- C17 ----Address
   //Clear the fields after submit  ------ End
   }
 ```
