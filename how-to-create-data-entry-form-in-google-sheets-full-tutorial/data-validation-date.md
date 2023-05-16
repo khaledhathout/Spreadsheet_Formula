@@ -17,7 +17,7 @@ function IsValidDate()
     spreadsheet.getRange('B3').clearDataValidations();
   // Clear Old Format ------ End
 
-  // Clear New Format ------ Start
+  // Add New Format ------ Start
     spreadsheet.getRange('B4').setDataValidation(SpreadsheetApp.newDataValidation()
     .setAllowInvalid(true)
     .requireDate()
@@ -26,7 +26,7 @@ function IsValidDate()
     .setAllowInvalid(true)
     .requireDate()
     .build());
-  // Clear New Format ------ End
+  // Add New Format ------ End
 
 }
 ```
