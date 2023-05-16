@@ -28,5 +28,5 @@ function IsValidDate()
     .build());
   // Clear New Format ------ End
 
-};
+}
 ```
