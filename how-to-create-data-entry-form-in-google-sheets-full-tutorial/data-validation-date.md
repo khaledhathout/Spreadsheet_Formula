@@ -1,32 +1,24 @@
 # Data Validation \[Date]
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Is Valid Date</p></figcaption></figure>
-
-```javascript
-function IsValidDate() 
-{
+````javascript
+function RequireDate() {
 
   // Variables ------ Start
     var spreadsheet = SpreadsheetApp.getActive();
   // Variables ------ End
     
   // Clear Old Format ------ Start
-    spreadsheet.getRange('B3').activate();
-    spreadsheet.getRange('B3').clearDataValidations();
+    spreadsheet.getRange('B4').activate();
+    spreadsheet.getRange('B4').clearDataValidations();
   // Clear Old Format ------ End
 
-  // Add New Format ------ Start
-    spreadsheet.getRange('B4').setDataValidation(SpreadsheetApp.newDataValidation()
-    .setAllowInvalid(true)
+  // Clear New Format ------ Start
+    spreadsheet.getRange('B3').setDataValidation(SpreadsheetApp.newDataValidation()
+    .setAllowInvalid(false)
     .requireDate()
     .build());
-    spreadsheet.getRange('B4').setDataValidation(SpreadsheetApp.newDataValidation()
-    .setAllowInvalid(true)
-    .requireDate()
-    .build());
-  // Add New Format ------ End
+  // Clear New Format ------ End
 
 }
 ```
+````
