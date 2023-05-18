@@ -1,0 +1,1 @@
+=query(importRange ( "ID" , "sheet1!A:Z" ) , "select *  Where A contains 'khaled' " , 1 )
